@@ -28,7 +28,7 @@
 
 ## 🚀 Future Work
 
-- Expanding to support other programming languages.
+- Expanding to support multiple programming languages.
 - Enhancing model training with more diverse datasets.
 - Integrating with popular IDEs for real-time bug localization.
 - Encouraging community contributions for continuous improvement.
